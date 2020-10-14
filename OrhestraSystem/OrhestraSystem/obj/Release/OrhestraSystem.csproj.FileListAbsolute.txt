@@ -1,0 +1,7 @@
+C:\Users\hp\Documents\Visual Studio 2015\Projects\OrhestraSystem\OrhestraSystem\bin\Release\OrhestraSystem.exe.config
+C:\Users\hp\Documents\Visual Studio 2015\Projects\OrhestraSystem\OrhestraSystem\bin\Release\OrhestraSystem.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\OrhestraSystem\OrhestraSystem\bin\Release\OrhestraSystem.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\OrhestraSystem\OrhestraSystem\obj\Release\OrhestraSystem.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2015\Projects\OrhestraSystem\OrhestraSystem\obj\Release\OrhestraSystem.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Visual Studio 2015\Projects\OrhestraSystem\OrhestraSystem\obj\Release\OrhestraSystem.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\OrhestraSystem\OrhestraSystem\obj\Release\OrhestraSystem.pdb

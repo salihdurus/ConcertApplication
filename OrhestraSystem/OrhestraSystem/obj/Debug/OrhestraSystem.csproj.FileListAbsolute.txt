@@ -1,0 +1,6 @@
+C:\Users\hp\Documents\Visual Studio 2015\Projects\OrhestraSystem\OrhestraSystem\bin\Debug\OrhestraSystem.exe.config
+C:\Users\hp\Documents\Visual Studio 2015\Projects\OrhestraSystem\OrhestraSystem\bin\Debug\OrhestraSystem.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\OrhestraSystem\OrhestraSystem\bin\Debug\OrhestraSystem.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\OrhestraSystem\OrhestraSystem\obj\Debug\OrhestraSystem.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Visual Studio 2015\Projects\OrhestraSystem\OrhestraSystem\obj\Debug\OrhestraSystem.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\OrhestraSystem\OrhestraSystem\obj\Debug\OrhestraSystem.pdb
